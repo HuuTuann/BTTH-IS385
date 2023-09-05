@@ -101,7 +101,7 @@ section {
     display: block;
 }
 body {
-    line-height: normal;
+    line-height: 1;
 }
 ol,
 ul {
